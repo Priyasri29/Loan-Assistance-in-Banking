@@ -8,4 +8,4 @@
 -- Programming language used: Python
 -- Software used: Visual Studio code (runs on web)
 --	Frameworks used: Streamlit
---	Machine Learning Algorithms used: Decision Tree, Random Forest, SVC, Logistic Regression
+--	Machine Learning Algorithms used: Decision Tree, Logistic Regression, KNN
